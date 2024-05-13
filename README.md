@@ -2,9 +2,7 @@
 
 > Conceptual video game featuring popular video game characters from various franchises in a shared universe.
 
-### Concept Game Design Document
-
-#### Throwback Legends
+### Concept Game Design Document: Throwback Legends
 
 #
 1. Game Overview
